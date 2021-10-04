@@ -37,4 +37,4 @@ My name is Nibras Shami, I'm an IT Student at AOU
 ## 👨‍💻 Currently working on:
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vreoo&repo=google-search-clone&show_owner=true)](https://github.com/vreoo/google-search-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vreoo&repo=google-search-clone&show_owner=true)](https://github.com/vreoo/frontend-mentor-challenges)
