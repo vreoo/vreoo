@@ -23,7 +23,6 @@ My name is Nibras Shami, I'm an IT Student at AOU
 [<img align="left" alt="email" src="https://img.shields.io/badge/Email-a81f1f.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nibrasshami2002@outlook.com)
 
 <br>
-<br>
 
 ## Experties
 
@@ -33,11 +32,9 @@ My name is Nibras Shami, I'm an IT Student at AOU
 <img align="left" alt="java" src="https://img.shields.io/badge/java-e85656.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="django" src="https://img.shields.io/badge/django-008000.svg?&style=for-the-badge&logo=django&logoColor=white" />
 
+
 <br>
 
-## 👨‍💻 Currently working on:
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vreoo&repo=frontend-mentor-challenges&show_owner=true)](https://github.com/vreoo/frontend-mentor-challenges)
+## Misc
 
 ![Metrics](https://github.com/vreoo/vreoo/blob/master/github-metrics.svg)
