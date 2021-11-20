@@ -39,3 +39,5 @@ My name is Nibras Shami, I'm an IT Student at AOU
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vreoo&repo=frontend-mentor-challenges&show_owner=true)](https://github.com/vreoo/frontend-mentor-challenges)
+
+![Metrics](https://github.com/vreoo/vreoo/blob/master/github-metrics.svg)
