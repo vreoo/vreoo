@@ -26,15 +26,15 @@ My name is Nibras Shami, I'm an IT Student at AOU
 
 ## Experties
 
-<img align="left" alt="html" src="https://img.shields.io/badge/html-f2960c.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="css" src="https://img.shields.io/badge/css-4949e9.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="python" src="https://img.shields.io/badge/python-99994b.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" alt="java" src="https://img.shields.io/badge/java-e85656.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="django" src="https://img.shields.io/badge/django-008000.svg?&style=for-the-badge&logo=django&logoColor=white" />
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Java,Javascript)](https://github.com/vreoo)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Frameworks&badges=Python,Java,HTML,CSS,Javascript,React,Django,GitHub/Git,Linux)](https://github.com/vreoo)
 
 
-<br>
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Discord-Demo&locale=en)](https://github.com/vreoo/Discord-Demo)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Face-Detector&locale=en)](https://github.com/vreoo/Face-Detector)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Number-Guesser&locale=en)](https://github.com/vreoo/Number-Guesser)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Portfolio&locale=en)](https://github.com/vreoo/Portfolio)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=beshoo-bot&locale=en)](https://github.com/M7mdisk/beshoo-bot)
 
-## Misc
-
-![Metrics](https://github.com/vreoo/vreoo/blob/master/github-metrics.svg)
+<!-- ![Metrics](https://github.com/vreoo/vreoo/blob/master/github-metrics.svg) -->
