@@ -30,11 +30,11 @@ My name is Nibras Shami, I'm an IT Student at AOU
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Frameworks&badges=Python,Java,HTML,CSS,Javascript,React,Django,GitHub/Git,Linux)](https://github.com/vreoo)
 
-
+<!-- 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Discord-Demo&locale=en)](https://github.com/vreoo/Discord-Demo)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Face-Detector&locale=en)](https://github.com/vreoo/Face-Detector)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Number-Guesser&locale=en)](https://github.com/vreoo/Number-Guesser)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Portfolio&locale=en)](https://github.com/vreoo/Portfolio)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=beshoo-bot&locale=en)](https://github.com/M7mdisk/beshoo-bot)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=beshoo-bot&locale=en)](https://github.com/M7mdisk/beshoo-bot) -->
 
 <!-- ![Metrics](https://github.com/vreoo/vreoo/blob/master/github-metrics.svg) -->
