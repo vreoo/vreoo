@@ -59,3 +59,14 @@ if __name__ == '__main__':
 
 [![Nibras Shami's Activity Graph](https://activity-graph.herokuapp.com/graph?username=vreoo&custom_title=Nibras%20Shami's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vreoo.github.io/Portfolio/)
 
+<br>
+
+## 🏆 Git profile Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=vreoo&theme=onedark&row=2&column=3)](https://vreoo.github.io/Portfolio/)
+
+</div>
+
+</br>
