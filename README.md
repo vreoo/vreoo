@@ -1,40 +1,61 @@
+<h1 align="center">
+  <b>Nibras Shami</b>
+</h1>
 
-<h2 align="center">
-    Welcome to Nibras's Profile! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-<!-- <img src="https://gpvc.arturio.dev/vreoo" alt="profile views"> -->
-
-My name is Nibras Shami, I'm an IT Student at AOU
-
-- 🌱 I’m currently learning **JavaScript**
-- 🔗 Take a look at my Portfolio: **https://vreoo.github.io/Portfolio/**
+Hey! I'm Nibras Shami, IT Student currently living in Kuwait. I'm Currently working at 
+<a href="https://yuehlia.com/">Yuehlia.com</a> as a Web/App Developer,
+and learning programming through my work and from projects  on the side.
 
 <br>
 
-## Connect with me
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nibras-shami-4bb544209/)
+```python
+class NibrasShami():
+    
+  def __init__(self):
+    self.name = "Nibras Shami";
+    self.username = "vreoo";
+    self.location = "Kuwait";
+    self.web = "https://vreoo.github.io/Portfolio/";
+  
+  def __str__(self):
+    return self.name
 
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15469806/nibras-shami)
+if __name__ == '__main__':
+    me = NibrasShami()
+```
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/NibrassShami)
+<!-- <div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div> -->
 
-[<img align="left" alt="email" src="https://img.shields.io/badge/Email-a81f1f.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nibrasshami2002@outlook.com)
 
+<!-- <div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div> -->
+
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://vreoo.github.io/Portfolio/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vreoo&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vreoo&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
 <br>
 
-## Experties
+[![Nibras Shami's Activity Graph](https://activity-graph.herokuapp.com/graph?username=vreoo&custom_title=Nibras%20Shami's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vreoo.github.io/Portfolio/)
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Java,Javascript)](https://github.com/vreoo)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Frameworks&badges=Python,Java,HTML,CSS,Javascript,React,Django,GitHub/Git,Linux)](https://github.com/vreoo)
-
-<!-- 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Discord-Demo&locale=en)](https://github.com/vreoo/Discord-Demo)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Face-Detector&locale=en)](https://github.com/vreoo/Face-Detector)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Number-Guesser&locale=en)](https://github.com/vreoo/Number-Guesser)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=Portfolio&locale=en)](https://github.com/vreoo/Portfolio)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=vreoo&repo=beshoo-bot&locale=en)](https://github.com/M7mdisk/beshoo-bot) -->
-
-<!-- ![Metrics](https://github.com/vreoo/vreoo/blob/master/github-metrics.svg) -->
