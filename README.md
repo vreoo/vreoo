@@ -16,7 +16,7 @@ and learning programming through my work and from projects  on the side.
 </div>
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/2a2f5f9f-139d-4133-9f1a-f6a628e4b932.svg)](https://wakatime.com/@2a2f5f9f-139d-4133-9f1a-f6a628e4b932)
+[![wakatime](https://wakatime.com/badge/user/2a2f5f9f-139d-4133-9f1a-f6a628e4b932.svg?style=social)](https://wakatime.com/@2a2f5f9f-139d-4133-9f1a-f6a628e4b932)
 
 </div>
 </p>
