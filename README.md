@@ -14,6 +14,11 @@ and learning programming through my work and from projects  on the side.
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/2a2f5f9f-139d-4133-9f1a-f6a628e4b932.svg)](https://wakatime.com/@2a2f5f9f-139d-4133-9f1a-f6a628e4b932)
+
+</div>
 </p>
 
 ```python
