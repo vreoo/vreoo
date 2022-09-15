@@ -62,6 +62,13 @@ if __name__ == '__main__':
 </p>
 <br>
 
+<p align="center">
+  <a href="https://vreoo.github.io/Portfolio/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=NibrasShami&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
 [![Nibras Shami's Activity Graph](https://activity-graph.herokuapp.com/graph?username=vreoo&custom_title=Nibras%20Shami's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vreoo.github.io/Portfolio/)
 
 <br>
