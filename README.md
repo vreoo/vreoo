@@ -15,9 +15,12 @@ and learning programming through my work and from projects  on the side.
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-d1a01f?style=for-the-badge&logo=JavaScript&logoColor=d1a01f&labelColor=282828">
 </div>
-<div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/2a2f5f9f-139d-4133-9f1a-f6a628e4b932.svg?style=social)](https://wakatime.com/@2a2f5f9f-139d-4133-9f1a-f6a628e4b932)
+<br>
+
+<div align="center">
+  
+[![wakatime](https://wakatime.com/badge/user/2a2f5f9f-139d-4133-9f1a-f6a628e4b932.svg)](https://wakatime.com/@2a2f5f9f-139d-4133-9f1a-f6a628e4b932)
 
 </div>
 </p>
@@ -57,18 +60,26 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://vreoo.github.io/Portfolio/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vreoo&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vreoo&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vreoo&show_icons=true&theme=gruvbox&hide_border=true&card_width=500" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vreoo&theme=gruvbox&hide_border=true&card_width=500" />
   </a>
 </p>
 <br>
 
 <p align="center">
   <a href="https://vreoo.github.io/Portfolio/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=NibrasShami&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vreoo&layout=compact&theme=gruvbox&card_width=250" />
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox&card_width=250) -->
   </a>
 </p>
 <br>
+
+<!-- <p align="center">
+  <a href="https://vreoo.github.io/Portfolio/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=NibrasShami&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br> -->
 
 ## 🏆 Git profile Trophies
 
