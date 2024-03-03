@@ -60,7 +60,7 @@ if __name__ == '__main__':
 <br/>
 
 <p align="left">
-  <a href="https://vreoo.github.io/Portfolio/">
+  <a href="https://nibrasshami.com">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vreoo&show_icons=true&theme=gruvbox&hide_border=true&card_width=500" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vreoo&theme=gruvbox&hide_border=true&card_width=500" />
   </a>
@@ -68,7 +68,7 @@ if __name__ == '__main__':
 <br>
 
 <p align="center">
-  <a href="https://vreoo.github.io/Portfolio/">
+  <a href="https://nibrasshami.com">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vreoo&layout=compact&theme=gruvbox&card_width=250" />
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox&card_width=250) -->
   </a>
