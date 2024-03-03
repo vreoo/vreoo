@@ -32,7 +32,7 @@ class NibrasShami():
     self.name = "Nibras Shami";
     self.username = "vreoo";
     self.location = "Kuwait";
-    self.web = "https://vreoo.github.io/Portfolio/";
+    self.web = "https://nibrasshami.com";
   
   def __str__(self):
     return self.name
