@@ -58,10 +58,11 @@ if __name__ == '__main__':
 ## My Statistics
 
 <br/>
+
 <p align="left">
   <a href="https://vreoo.github.io/Portfolio/">
-  <img src="https://github-readme-stats.vercel.app/api?username=vreoo&show_icons=true&theme=gruvbox&hide_border=true&card_width=500" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vreoo&theme=gruvbox&hide_border=true&card_width=500" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vreoo&show_icons=true&theme=gruvbox&hide_border=true&card_width=500" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vreoo&theme=gruvbox&hide_border=true&card_width=500" />
   </a>
 </p>
 <br>
