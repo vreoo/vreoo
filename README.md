@@ -22,16 +22,6 @@ Here are some of the technologies and tools I work with:
 
 ![Vreoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vreoo&show_icons=true&theme=radical)
 
-<!--
-## 📂 Featured Projects
-
-Here are some of my notable projects:
-
-- [Project 1](https://github.com/vreoo/project1) - A brief description of Project 1.
-- [Project 2](https://github.com/vreoo/project2) - A brief description of Project 2.
-- [Project 3](https://github.com/vreoo/project3) - A brief description of Project 3.
--->
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/nibras-shami/)
