@@ -26,5 +26,6 @@ Here are some of the technologies and tools I work with:
 
 - [LinkedIn](https://www.linkedin.com/in/nibras-shami/)
 - [Personal Website/Blog](https://nibrasshami.com)
+[![Available for Work](https://available.dev/api/badge/vreoo)](https://available.dev/vreoo)
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project. 😊
